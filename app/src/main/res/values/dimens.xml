@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--genaral spacing-->
+    <dimen name="spacing_null">0dp</dimen>
+    <dimen name="spacing_xsmall">2sp</dimen>
+    <dimen name="spacing_small">3sp</dimen>
+    <dimen name="spacing_medium">5sp</dimen>
+    <dimen name="spacing_xmedium">7sp</dimen>
+    <dimen name="spacing_middle">10sp</dimen>
+    <dimen name="spacing_large">15sp</dimen>
+    <dimen name="spacing_smlarge">18sp</dimen>
+    <dimen name="spacing_mlarge">20sp</dimen>
+    <dimen name="spacing_mxlarge">25sp</dimen>
+    <dimen name="spacing_xlarge">20sp</dimen>
+    <dimen name="spacing_xmlarge">40sp</dimen>
+    <dimen name="spacing_xxlarge">50sp</dimen>
+    <dimen name="spacing_xxxlarge">55sp</dimen>
+    <dimen name="appbar_padding_top">8sp</dimen>
+    <dimen name="item_list_horizontal_margin">5sp</dimen>
+    <dimen name="activity_margin">16sp</dimen>
+    <dimen name="thumbnail">40sp</dimen>
+    <dimen name="row_padding">10sp</dimen>
+    <dimen name="search_game_title">15sp</dimen>
+    <dimen name="search_game_category">12sp</dimen>
+
+    <dimen name="activity_padding">16sp</dimen>
+    <dimen name="placeholder_image">50sp</dimen>
+    <dimen name="placeholder_text_height">8sp</dimen>
+    <dimen name="activity_padding_horizontal">16sp</dimen>
+    <dimen name="padding_10">10sp</dimen>
+    <dimen name="name">15sp</dimen>
+    <dimen name="chef">12sp</dimen>
+    <dimen name="timestamp">11sp</dimen>
+    <dimen name="description">15sp</dimen>
+    <dimen name="price">13sp</dimen>
+
+    <dimen name= "content_frame1_elevation">22dp</dimen>
+    <dimen name="custom_search_view_elevation">25dp</dimen>
+    <dimen name="shimmer_view_container_main">30dp</dimen>
+    <dimen name="main_toolbar_elevation">30dp</dimen>
+
+
+
+</resources>

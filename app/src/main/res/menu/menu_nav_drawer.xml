@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/homepage_ico_new_apps_and_games"
+            android:id="@+id/my_apps_and_games"
+            android:title="@string/my_apps_and_games" />
+
+
+    </group>
+
+    <!--<item name="android:itemTextAppearance">@style/myCustomMenuTextApearance</item>-->
+
+
+    <item android:title="OUR PORTFOLIO"
+        >
+        <menu>
+            <group
+                android:id="@+id/group2"
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/virtual_pet_games"
+                    android:icon="@drawable/homepage_ico_virtual_pet_games"
+                    android:title="@string/virtual_pet_games" />
+                <item
+                    android:id="@+id/casual_games"
+                    android:icon="@drawable/homepage_ico_casual_games"
+                    android:title="@string/casual_games" />
+
+                <item
+                    android:id="@+id/quiz_games"
+                    android:icon="@drawable/homepage_ico_quiz_games"
+                    android:title="@string/quiz_games" />
+
+                <item
+                    android:id="@+id/coloring_pages"
+                    android:icon="@drawable/homepage_ico_coloring_pages"
+
+                    android:title="@string/coloring_pages" />
+
+                <item
+                    android:id="@+id/math_games"
+                    android:icon="@drawable/homepage_ico_math_games"
+
+                    android:title="@string/math_games" />
+
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="COMPANY">
+        <menu>
+            <group
+                android:id="@+id/group3"
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/about"
+                    android:title="@string/about_us" />
+                <item
+                    android:id="@+id/jobs"
+                    android:title="@string/jobs" />
+
+                <item
+                    android:id="@+id/game_publising"
+                    android:title="@string/game_publising" />
+
+                <item
+                    android:id="@+id/contact_us"
+                    android:title="@string/contact_us" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

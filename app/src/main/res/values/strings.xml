@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PeakselApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="my_notifications">My notifications</string>
+    <string name="my_apps_and_games"><![CDATA[My apps & games]]></string>
+    <string name="virtual_pet_games">Virtual Pet Games</string>
+    <string name="casual_games">Casual  Games</string>
+    <string name="quiz_games">Quiz Games</string>
+    <string name="coloring_pages">Coloring Pages</string>
+    <string name="math_games">Math Games</string>
+    <string name="about_us">About Us</string>
+    <string name="jobs">Jobs</string>
+    <string name="game_publising">Game Publishing</string>
+    <string name="contact_us">Contact us</string>
+    <string name="over_5_m_users">Over 5 milions users</string>
+    <string name="testimonials">Testimonials</string>
+    <string name="people_enjoy_our_apps"> people enjoyed our apps and games</string>
+    <string name="times">times</string>
+    <string name="flurry_data">"Real time data provided by Flurry"</string>
+    <string name="peakse_info">2018 Peaksel D.O.O Kursumlijska 5 ,18000 Nis ,Serbia. All rights reserved.</string>
+
+
+    <string name="title_activity_about">About</string>
+    <string name="promotext">promo_text</string>
+    <string name="app_label">search</string>
+    <string name="search_hint">type here...</string>
+    <string name="my_header_title">D.O.O 18000 NIS,SERBIA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_apps_and_games" > New apps and games </string>
+    <string name="view_all">VIEW ALL</string>
+
+    <string name="search_no_results">No results</string>
+
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed leo consectetur, iaculis felis non, porta urna. Integer vulputate nisl at massa facilisis fringilla. Ut egestas, eros placerat placerat accumsan, orci velit finibus sem, in placerat lorem dolor in odio. Mauris auctor tortor eget quam facilisis commodo. Nulla in auctor justo, dapibus pharetra elit. Nam malesuada gravida porttitor. Integer placerat, est condimentum facilisis commodo, magna magna sodales dolor, non vestibulum risus tellus ut nibh. Donec accumsan mauris quis libero ullamcorper, sed tincidunt purus lobortis. Nunc sed leo vel est ullamcorper aliquet id eget dolor. Maecenas imperdiet lorem pellentesque, finibus risus in, mollis dui. Cras bibendum risus id rutrum sagittis. Donec ullamcorper, nisi vel rhoncus ullamcorper, urna ligula pretium nunc, at volutpat ex erat bibendum metus.</string>
+
+
+</resources>
